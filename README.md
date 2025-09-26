@@ -1,4 +1,4 @@
-Loading page 
+Landing page 
 <!DOCTYPE html>
 <html lang="en">
 <head>
